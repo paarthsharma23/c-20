@@ -1,2 +1,2 @@
-# c-20
-core activities 
+# p5.play-boilerplate
+Boiler plate for p5.play
